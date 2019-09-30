@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/polyphonic-brass-logo-selector/static/js/main.845b8c57.chunk.js",
-    "main.js.map": "/polyphonic-brass-logo-selector/static/js/main.845b8c57.chunk.js.map",
+    "main.js": "/polyphonic-brass-logo-selector/static/js/main.0d74e20d.chunk.js",
+    "main.js.map": "/polyphonic-brass-logo-selector/static/js/main.0d74e20d.chunk.js.map",
     "runtime-main.js": "/polyphonic-brass-logo-selector/static/js/runtime-main.52a9f027.js",
     "runtime-main.js.map": "/polyphonic-brass-logo-selector/static/js/runtime-main.52a9f027.js.map",
     "static/js/2.9a888cdc.chunk.js": "/polyphonic-brass-logo-selector/static/js/2.9a888cdc.chunk.js",
     "static/js/2.9a888cdc.chunk.js.map": "/polyphonic-brass-logo-selector/static/js/2.9a888cdc.chunk.js.map",
     "index.html": "/polyphonic-brass-logo-selector/index.html",
-    "precache-manifest.f27d5d96005990ba8a5b01728456a2ab.js": "/polyphonic-brass-logo-selector/precache-manifest.f27d5d96005990ba8a5b01728456a2ab.js",
+    "precache-manifest.69ba7a4381c65d9e2781b73eb78448b6.js": "/polyphonic-brass-logo-selector/precache-manifest.69ba7a4381c65d9e2781b73eb78448b6.js",
     "service-worker.js": "/polyphonic-brass-logo-selector/service-worker.js"
   }
 }
