@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/polyphonic-brass-logo-selector/precache-manifest.f935d1b93ba7de0bf3a28f02fc315226.js"
+  "/polyphonic-brass-logo-selector/precache-manifest.7ea6521aa4c3e67272419c945e555db7.js"
 );
 
 self.addEventListener('message', (event) => {
