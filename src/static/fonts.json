@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "text": "Milkshake",
+    "fontFace": "milkshake"
+  },
+  {
+    "id": 2,
+    "text": "Black Jack",
+    "fontFace": "blackjack"
+  },
+  {
+    "id": 3,
+    "text": "Fabfelt Script",
+    "fontFace": "fabfelt"
+  }
+]
