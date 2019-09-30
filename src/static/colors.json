@@ -40,5 +40,17 @@
     "text": "Light Blue on Medium Blue",
     "bgColor": "#0052a4",
     "fontColor": "#99ccff"
+  },
+  {
+    "id": 8,
+    "text": "White on Orange",
+    "bgColor": "#cc7f12",
+    "fontColor": "#fff"
+  },
+  {
+    "id": 9,
+    "text": "Orange on Black",
+    "bgColor": "#000",
+    "fontColor": "#cc7f12"
   }
 ]
