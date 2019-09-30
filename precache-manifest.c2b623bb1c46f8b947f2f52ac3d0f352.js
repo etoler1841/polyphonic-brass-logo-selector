@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5376f31c1807e783d7f46ce99ee66fcd",
+    "revision": "3021f940bdc6ab04fc5c6e499cf3f56e",
     "url": "/polyphonic-brass-logo-selector/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/polyphonic-brass-logo-selector/static/js/2.9a888cdc.chunk.js"
   },
   {
-    "revision": "e853041d4c3aeb281792",
-    "url": "/polyphonic-brass-logo-selector/static/js/main.09e94dfc.chunk.js"
+    "revision": "ff13e8c4886f471a5941",
+    "url": "/polyphonic-brass-logo-selector/static/js/main.81ceec9a.chunk.js"
   },
   {
     "revision": "379e9be80cecc01b9178",
